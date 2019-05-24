@@ -1,0 +1,200 @@
+nav{
+
+background-color: green;
+position: sticky;
+top:0px;
+}
+nav h1{
+  text-align: center;
+  font-size: 35px;
+  color:white;
+}
+nav ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color:green;
+  }
+  nav ul li{
+    font-size: 30px;
+   float: left;
+ }
+  nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 14px 20px;
+    display: block;
+    }
+    nav ul li a:hover{
+      background-color: orange;
+      color: white;
+      }
+  .list
+{
+  position: absolute;
+  background-color: lightgray;
+  color: black;
+  display: none;
+}
+.list a
+{
+  color: black;
+}
+.drop:hover .list
+{
+display: block;
+
+}
+.e{
+  font-size: 25px;
+}
+.aa{
+  background-color: green;
+  height: 200px;
+  width: 100%;
+
+}
+.aa h1{
+  background-color: green;
+  font-size: 35px;
+  text-align: center;
+  color: white;
+  
+}
+.aa a{
+  background-color: green;
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+
+}
+.b{
+  position: sticky;
+  top:0px;
+}
+.bb{
+  color: blue;
+  font-size: 35px;
+}
+.container{
+  width: 100%;
+  height: 500px;
+  }
+  .form{
+    width: 40%;
+    float: left;
+    margin-top: 20px;
+    position: static;
+    margin-left: 10px;
+    font-size: 35px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+  }
+  .map{
+    width: 50%;
+    float: right;
+    margin-top: 20px;
+  }
+  input[type="text"], input[type="number"],input[type="password"], input[type="Email"]{
+    height: 30px;
+    width: 200px;
+    border: 2px solid green;
+    border-radius:10px;
+    margin-left: 20px;
+    margin:10px;
+    }
+    input[type="submit"], input[type="reset"] {
+      height: 50px;
+      width: 200px;
+      background-color:orange;
+      color: white;
+    }
+    .dd{
+      background-color:#96D0A3;
+      font-size: 20px;
+      font-weight: bold;
+
+    }
+    .ff{
+      background-color:#96D0A3;
+font-size: 20px;
+font-weight: bold;
+    }
+    .gg{
+      background-color:#96D0A3;
+     font-size: 20px;
+      font-weight: bold;
+    }
+    textarea{
+      border-radius: 10px;
+      border: solid green;
+      margin-top: 10px;
+    }
+    .zz{
+      margin-left: 25px;
+    }
+    .img1{
+      border: 2px;
+      float:left;
+      margin: 10px;
+  }
+    .img2{
+      
+      font-size: 30px;
+      color:black;
+      font-weight: bold;
+      font-style: normal;
+      margin: 10px;
+      
+    }
+    .shiva{
+      background-color:#184F5B;
+      color: white;
+      font-size: 25px;
+      float:left;
+      height: 250px;
+      width: 100%;
+      text-align: center;
+    }
+    .za{
+      float:left;
+      margin: 20px;
+      left:500px;
+    }
+    .zb{
+      float: left;
+      margin: 20px;
+      left:400px;
+    }
+    .zc{
+      float:left;
+      margin: 20px;
+      left:300px;
+    }
+    .zd{
+      float: left;
+      margin: 20px;
+      right:100px;
+    }
+    legend{
+      color:black;
+      font-size: 35px;
+    }
+    .shiva legend{
+      
+      color:white;
+      font-size: 35px;
+    }
+    .shiva b{
+      color:white;
+      font-size: 30px;
+    }
+    footer{
+      text-align: center;
+      font-size: 20px;
+      color: black;
+      font-style: normal;
+      }
+    
